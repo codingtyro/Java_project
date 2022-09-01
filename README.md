@@ -1,2 +1,2 @@
 # Java_project
-![leetcode](https://leetcode.cn/)
+[leetcode](https://leetcode.cn/)
